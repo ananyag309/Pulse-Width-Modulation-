@@ -1,2 +1,2 @@
-# Pulse-Width-Modulation-
+# Pulse-Width-Modulation
 Digital Design Project
